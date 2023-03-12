@@ -37,7 +37,7 @@ class Calculator{
         System.out.println("Division is "+result);
     }
 }
-class calculatorApp{
+class CalculatorApp{
     public static void main(String[]args){
         Calculator c=new Calculator();
         c.add();
